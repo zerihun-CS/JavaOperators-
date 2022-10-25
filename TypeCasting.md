@@ -5,10 +5,10 @@
 In Java, there are two types of casting:
 
 - Widening Casting (automatically) - converting a smaller type to a larger type size
-**`byte -> short -> char -> int -> long -> float -> double`**
+**`byte -> short -> int -> long -> float -> double`**
 
 - Narrowing Casting (manually) - converting a larger type to a smaller size type
-**`double -> float -> long -> int -> char -> short -> byte`**
+**`double -> float -> long -> int -> short -> byte`**
 
 <h3 align="center">
   <img src="https://static.javatpoint.com/core/images/type-casting-in-java.png" alt="Type Casting image" height="350px">
